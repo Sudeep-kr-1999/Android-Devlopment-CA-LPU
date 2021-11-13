@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ques1</string>
+    <string name="android_description">This is an Avatar</string>
+    <string name="login">Log in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="twitter_description">This is twitter button</string>
+    <string name="facebook_description">This is facebook button</string>
+    <string name="google_description">This is google button</string>
+    <string name="or_text_view">or</string>
+    <string name="username_email">User name / Email address</string>
+    <string name="PassWord">Password</string>
+    <string name="remember_me_checkbox">Remember me</string>
+    <string name="done_button">DONE</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="cannot_be_none">cannot be none</string>
+    <string name="username_hint">Less than 40 characters</string>
+    <string name="password_hint">Less than 40 characters</string>
+</resources>

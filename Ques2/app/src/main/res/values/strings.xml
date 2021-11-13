@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ques2</string>
+    <string name="heading">Rate This Application</string>
+    <string name="excellent">EXCELLENT</string>
+    <string name="good">GOOD</string>
+    <string name="okay">OKAY</string>
+    <string name="poor">POOR</string>
+    <string name="checkbox1">I really Enjoy the lesson</string>
+    <string name="checkbox2">I would like to hear more from you</string>
+    <string name="checkbox3">I am satisfied with the content and full Description</string>
+    <string name="checkbox4">I will prefer this lesson to else also</string>
+    <string name="submit_btn">Submit</string>
+    <string name="suggestion_request">Some suggestion here</string>
+    <string name="suggestion_label">Any Suggestion</string>
+</resources>
